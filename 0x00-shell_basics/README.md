@@ -12,3 +12,4 @@ This directory contains the following files
 8. 7-movethatfile - Moves the file betty from /tmp/ to /tmp/my_first_directory.
 9. 8-firstdelete - Delete the file betty in /tmp/my_first_directory
 10. 9-firstdirdeletion - Delete the directory my_first_directory that is in the /tmp directory.
+11. 10-back - Change the current directory to the previous one.
