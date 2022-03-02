@@ -13,3 +13,4 @@ This directory contains the following files
 9. 8-firstdelete - Delete the file betty in /tmp/my_first_directory
 10. 9-firstdirdeletion - Delete the directory my_first_directory that is in the /tmp directory.
 11. 10-back - Change the current directory to the previous one.
+12. 11-lists - List all files (even ones with names beginning with a period character) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
