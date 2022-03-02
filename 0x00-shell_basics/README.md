@@ -7,3 +7,4 @@ This directory contains the following files
 3. 2-bring_me_home - Change the current directory to the home directory
 4. 3-listfiles - List the files in the current directory in a long format
 5. 4-listmorefiles - List the files in the current directory in a long format, including the hidden files that start with a .
+6. 5-listfilesdigitonly - List the files in the current directory in a long format showing the user and groupIDs numerically and with the hidden files as well
