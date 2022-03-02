@@ -24,4 +24,4 @@ This directory contains the following files
 
 1. 100-lets_move - A script that moves all files starting with an uppercase letter from the current directory to /tmp/u.
 2. 101-clean_emacs - A script that deletes all the files that end with ~.
- 
+3. 102-tree - A script that creates welcome/, welcome/to/, and welcome/to/school in the current directory with minimal spacing and commands
