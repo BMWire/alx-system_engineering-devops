@@ -15,3 +15,4 @@ This directory contains the following files
 11. 10-back - Change the current directory to the previous one.
 12. 11-lists - List all files (even ones with names beginning with a period character) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
 13. 12-file_type - Prints the type of a file named iamafile in the /tmp directory.
+14. 13-symbolic_link - Create a symbolic link to /bin/ls, named '__ls__'. The symbolic link should be created in the current working directory.
