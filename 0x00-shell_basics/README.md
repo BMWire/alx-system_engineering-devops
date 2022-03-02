@@ -23,3 +23,5 @@ This directory contains the following files
 ## Advanced Tasks
 
 1. 100-lets_move - A script that moves all files starting with an uppercase letter from the current directory to /tmp/u.
+2. 101-clean_emacs - A script that deletes all the files that end with ~.
+ 
