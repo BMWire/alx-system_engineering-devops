@@ -16,3 +16,10 @@
 12. 11-binary_to_decimal - A script that converts binary to decimal.
 13. 12-combinations - A script that prints all possible to letter combinations except oo in alpha order aa, one on each line.
 14. 13-print_float - A script that prints NUM with two decimal places.
+
+## Advanced
+
+1. 100-decimal_to_hexadecimal - A script that converts a decimal number stored in $DECIMAL to hexadecimal.
+2. 101-rot13 - A script that encodes and decodes text using the rot13 encryption. Assume ASCII.
+3. 102-odd -  A script that prints every other line from the input, starting with the first line.
+4. 103-water_and_stir - A script that adds the two numbers stored in the environment variables WATER and STIR and prints the result.
