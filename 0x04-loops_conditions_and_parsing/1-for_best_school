@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# using the for loop, print the phrase 'Best School' 10 times
+phrase="Best School"
+for _ in {0..9}; do echo "$phrase"; done

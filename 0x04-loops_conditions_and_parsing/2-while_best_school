@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# using the while loop, print the phrase 'Best School' 10 times
+phrase="Best School"
+i=0
+while [ $i -lt 10 ]; do echo "$phrase"; i=$((i+1)); done

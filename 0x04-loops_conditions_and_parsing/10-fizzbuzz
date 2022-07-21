@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+# Prints the numbers from 1 to 100, but replaces the numbers divisible by 3 with the word 'Fizz', the numbers divisible by 5 with the word 'Buzz' and the numbers divisible by both with the word 'FizzBuzz'.
+i=1
+while ((i <= 100)); do
+    if [ $((i % 15)) -eq 0 ]; then
+        echo "FizzBuzz"
+    elif [ $((i % 3)) -eq 0 ]; then
+        echo "Fizz"
+    elif [ $((i % 5)) -eq 0 ]; then
+        echo "Buzz"
+    else
+        echo "$i"
+    fi
+    ((i = i + 1))
+done

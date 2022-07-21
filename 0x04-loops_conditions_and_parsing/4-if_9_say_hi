@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+# using the while loop, print the phrase 'Best School' 10 times but hi in the 9th iteration
+phrase="Best School"
+i=0
+while [ $i -lt 10 ]; do
+    echo "$phrase"
+    if [ $i -eq 8 ]; then
+        echo "Hi"
+    fi
+    i=$((i + 1))
+done

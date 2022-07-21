@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# display the content of the current directory using a for loop showing only the part after the dash
+for file in *; do
+    echo "$file" | cut -d '-' -f2
+done
