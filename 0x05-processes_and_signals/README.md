@@ -11,3 +11,7 @@
 7. 6-stop_me_if_you_can - Kill the process from 5 without using the kill or killall command.
 8. 7-highlander - Display 'To infinity and beyond' infinitely with sleep 2 in each iteration of the loop with some additional conditons.
 9. 8-beheaded_process - Kill the process from 8.
+
+## Advanced
+
+1. 100-process_and_pid_file
