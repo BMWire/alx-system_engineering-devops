@@ -21,3 +21,7 @@ Learning how to use variables and expansions in the shell.
 ## 0x04-loops_conditions_and_parsing
 
 Learning how to use loops, conditions, and parsing in the shell.
+
+## 0x05-processes_and_signals
+
+Learning more about processes and signals in the shell.

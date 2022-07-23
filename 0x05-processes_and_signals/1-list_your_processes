@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# List the running processes on the system.
+
+ps axuf
