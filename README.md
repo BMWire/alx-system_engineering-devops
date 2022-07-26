@@ -25,3 +25,7 @@ Learning how to use loops, conditions, and parsing in the shell.
 ## 0x05-processes_and_signals
 
 Learning more about processes and signals in the shell.
+
+## 0x06-regular_expressions
+
+Learning how to use regular expressions using Ruby and the Oniguruma library.
