@@ -29,3 +29,7 @@ Learning more about processes and signals in the shell.
 ## 0x06-regular_expressions
 
 Learning how to use regular expressions using Ruby and the Oniguruma library.
+
+## 0x07-networking_basics
+
+Learning the basics of networking, the different types of networks and how they work.
