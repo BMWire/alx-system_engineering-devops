@@ -37,3 +37,7 @@ Learning the basics of networking, the different types of networks and how they 
 ## 0x08-networking_basics_2
 
 Learning the basics of networking further
+
+## 0x0A-configuration_management
+
+Learning more about configuration management for software deployed to the cloud.
