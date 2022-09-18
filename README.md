@@ -41,3 +41,7 @@ Learning the basics of networking further
 ## 0x0A-configuration_management
 
 Learning more about configuration management for software deployed to the cloud.
+
+## 0x0B-ssh
+
+Setting up the servers with SSH and security.
